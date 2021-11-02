@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ## My name is Elias and I am a Frontend developer
 ## I’m currently learning at AlX-Software-Engineering
