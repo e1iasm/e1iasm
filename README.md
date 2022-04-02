@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-# My name is Elias and I am a Frontend developer
-# I’m currently learning at AlX-Software-Engineering
+# My name is Elias and I am learning data analysis
 <!--
 **e1iasm/e1iasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
