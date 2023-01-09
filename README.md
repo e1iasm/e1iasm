@@ -1,6 +1,6 @@
-#### Hello 👋
+## Hello 👋
 
-## Elias here
+# Elias here
 
 - I am currently learning data analytics at Coursera. I want to become a data analyst.
 
