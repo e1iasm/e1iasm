@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello 👋
+
+#Elias here
+
+. I am currently learning data analytics at Coursera. I want to become a data analyst. 
+
+. I like wiriting random short stories.
 
 <!--
 **e1iasm/e1iasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
