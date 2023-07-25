@@ -2,7 +2,7 @@
 
 # Elias here
 
-- I am currently learning data analytics by taking courses and doing projects.
+- I am a junior data analyst
 
 - I like writing random short stories.
 
