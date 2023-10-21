@@ -2,7 +2,7 @@
 
 # Elias here
 
-- I am a junior data analyst
+- I am a data analyst
 
 - I like writing random short stories.
 
