@@ -4,7 +4,7 @@
 
 - I am a data analyst
 
-- I like writing random short-stories.
+- I like scribbling random short stories.
 
 <!--
 **e1iasm/e1iasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
