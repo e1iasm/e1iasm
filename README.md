@@ -2,9 +2,9 @@
 
 # Elias here
 
-- I am a data analyst
+- 📊 I am a data analyst
 
-- I like scribbling random short stories.
+- ✍ I like to scribble
 
 <!--
 **e1iasm/e1iasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
