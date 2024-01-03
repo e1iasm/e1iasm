@@ -5,6 +5,7 @@
 - 📊 I am a data analyst
 
 - ✍ I like to scribble
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=e1iasm&label=Profile%20views&color=ce9927&style=flat" alt="e1iasm" /> </p>
 
 <!--
 **e1iasm/e1iasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
